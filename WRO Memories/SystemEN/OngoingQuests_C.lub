@@ -35,4 +35,32 @@ QuestInfoList_C = {
 		},
 		Summary = "Does it work?"
 	},
+	[63009] = {
+		Title = "Settings NPC",
+		Description = {
+			"Settings NPC"
+		},
+		Summary = ""
+	},
+	[63010] = {
+		Title = "Event Shop",
+		Description = {
+			"You learned about the event shop"
+		},
+		Summary = ""
+	},
+	[63011] = {
+		Title = "Event Shop Alchemist",
+		Description = {
+			"You learned about the alchemist shop"
+		},
+		Summary = ""
+	},
+	[63012] = {
+		Title = "Warper Talked to",
+		Description = {
+			"Warper Talked to"
+		},
+		Summary = ""
+	},
 }
