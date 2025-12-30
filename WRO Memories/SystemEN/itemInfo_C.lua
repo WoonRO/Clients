@@ -66,6 +66,63 @@ tbl_custom = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[911000] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "오니의뿔",
+		unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Devil's Top Hat Costume",
+		identifiedResourceName = "오니의뿔",
+		identifiedDescriptionName = {
+			"Everything stored in this item is account bound.",
+			"Use @TopDSHat command for more info.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000^000000",
+			"Weight:^006600 0^000000",
+			"Jobs:^6666CC All^000000",
+			"^343f53[Custom Item]^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1127,
+		costume = true
+	},
+	[911001] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Devil's Mid Hat Costume",
+		identifiedResourceName = "날개안경",
+		identifiedDescriptionName = {
+			"Everything stored in this item is account bound.",
+			"Use @MidDSHat command for more info.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000^000000",
+			"Weight:^006600 0^000000",
+			"Jobs:^6666CC All^000000",
+			"^343f53[Custom Item]^000000",
+		},
+		slotCount = 0,
+		ClassNum = 925,
+		costume = true
+	},
+	[911002] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = { },
+		identifiedDisplayName = "Devil's Bottom Hat Costume",
+		identifiedResourceName = "입에무는포커카드",
+		identifiedDescriptionName = {
+			"Everything stored in this item is account bound.",
+			"Use @BottomDSHat command for more info.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000^000000",
+			"Weight:^006600 0^000000",
+			"Jobs:^6666CC All^000000",
+			"^343f53[Custom Item]^000000",
+		},
+		slotCount = 0,
+		ClassNum = 889,
+		costume = true
+	},
 }
 
 -- Table for Official Overrides
