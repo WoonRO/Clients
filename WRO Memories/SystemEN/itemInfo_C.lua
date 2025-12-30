@@ -46,7 +46,26 @@ tbl_custom = {
 		},
 		slotCount = 0,
 		ClassNum = 0
-	}
+	},
+	[910000] = {
+		unidentifiedDisplayName = "WRO Gold Coin",
+		unidentifiedResourceName = "coin_gold",
+		unidentifiedDescriptionName = {
+			"Weight: ^0EAA0B1^000000",
+			"^343f53[WoonRO Custom]^000000"
+		},
+		identifiedDisplayName = "Gold Coin",
+		identifiedResourceName = "coin_gold",
+		identifiedDescriptionName = {
+			"One of the main currencies of WoonRO.",
+			"^FFFFFF_^000000",
+			"Weight: ^0EAA0B0^000000",
+			"^343f53[WoonRO Custom]^000000",
+
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 }
 
 -- Table for Official Overrides

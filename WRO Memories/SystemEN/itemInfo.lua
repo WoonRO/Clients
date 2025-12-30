@@ -57,7 +57,7 @@ CustomTagStart = '['
 CustomTagEnd = ']'
 
 -- Server Name for your custom items
-CServerName = 'ExampleRO'
+CServerName = 'WoonRO'
 
 -- Define the colour in which the custom Server Name should be shown (custom items)
 -- Format: '^<RRGGBB>'
