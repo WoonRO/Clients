@@ -66,6 +66,61 @@ tbl_custom = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+		[910003] = {
+		unidentifiedDisplayName = "Essence Flask",
+		unidentifiedResourceName = "ºû³ª´Â¼º¼ö",
+		unidentifiedDescriptionName = {
+			"An accumulation of a player's experience, condensed with magic.",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000",
+			"^343f53[WoonRO Custom]^000000"
+		},
+		identifiedDisplayName = "Essence Flask",
+		identifiedResourceName = "ºû³ª´Â¼º¼ö",
+		identifiedDescriptionName = {
+			"An accumulation of a player's experience, condensed with magic.",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000",
+			"^343f53[WoonRO Custom]^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[910004] = {
+		unidentifiedDisplayName = "Master Revival Token",
+		unidentifiedResourceName  = "¿ÕÀÇÁõ¸í",
+		unidentifiedDescriptionName = {
+			"^343f53[WoonRO Custom]^000000"
+		},
+		identifiedDisplayName = "Master Revival Token",
+		identifiedResourceName = "¿ÕÀÇÁõ¸í",
+		identifiedDescriptionName = {
+			"A token given to honour players who have dedicated their time to gathering experiences from previous lives.",
+			"^FFFFFF_^000000",
+			"Weight: ^0EAA0B0^000000",
+			"^343f53[WoonRO Custom]^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[910005] = {
+		unidentifiedDisplayName = "Memory Inheritance",
+		unidentifiedResourceName  = "»óÀÎÀÇÈ¥",
+		unidentifiedDescriptionName = {
+			"^343f53[WoonRO Custom]^000000"
+		},
+		identifiedDisplayName = "Memory Inheritance",
+		identifiedResourceName = "»óÀÎÀÇÈ¥",
+		identifiedDescriptionName = {
+			"Use this to inherit memories from previous WoonRO servers.",
+			"The character must be a novice 1/1 on WoonRO Memories to use this item.",
+			"^FFFFFF_^000000",
+			"Weight: ^0EAA0B0^000000",
+			"^343f53[WoonRO Custom]^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[911000] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "¿À´ÏÀÇ»Ô",
